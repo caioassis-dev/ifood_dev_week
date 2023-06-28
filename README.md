@@ -10,3 +10,4 @@
 ### 28.06.2023 - Desvendando o poder dos dados com a biblioteca MatplotLib:
 
 ##### Extraindo os dados do NPS e aplicando as técnicas de ETL (Extração, Transformação e Carregamento) nesses dados. Com a ajuda da biblioteca matplotlib, foi criado um gráfico para visualizar e compreender o nível de satisfação do usuários.
+![npsPlot](https://github.com/caioassis-dev/ifood_dev_week/assets/61170444/1058025f-676c-4afe-8aa2-d8f1b9a3012a)
